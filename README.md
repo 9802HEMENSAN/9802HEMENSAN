@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/9802HEMENSAN)
 <h1 align="center">Hi 👋, I'm Hemensan Mahilange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9802hemensan&label=Profile%20views&color=0e75b6&style=flat" alt="9802hemensan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9802hemensan" alt="9802hemensan" /></a> </p>
 
  - 🔭 I’m currently working on **React apps**
 
@@ -32,6 +27,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me **hmahilange9802@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=9802hemensan&label=Profile%20views&color=0e75b6&style=flat" alt="9802hemensan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9802hemensan" alt="9802hemensan" /></a> </p>
+
+ 
 
 <h3 align="left">Connect with me: </h3>
  
