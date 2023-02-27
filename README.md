@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@9802hemensan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@9802hemensan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemensan-mahilange-4a9499242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemensan-mahilange-4a9499242/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hmahilange9802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hmahilange9802" height="30" width="40" /></a>
+<a href="https://codepen.io/@9802hemensan" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" alt="@9802hemensan" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemensan-mahilange-4a9499242/" target="blank">
+<img align="center" src="https://www.jobentry.in/wp-content/uploads/2021/02/WhatsApp-Image-2021-01-18-at-11.00.09-12-1024x1024.jpeg" alt="https://www.linkedin.com/in/hemensan-mahilange-4a9499242/" height="30" width="40" /></a>
+
+<a href="https://codesandbox.com/hmahilange9802" target="blank">
+<img align="center" src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="hmahilange9802" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
