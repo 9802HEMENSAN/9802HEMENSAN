@@ -23,11 +23,18 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9802hemensan" alt="9802hemensan" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , React , TypeScript, NextJS**
+ - 🔭 I’m currently working on **React apps**
+
+- 🌱 I’m currently learning **TypeScript**
+
+- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **hmahilange9802@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me: </h3>
+ 
 <p align="left">
 <a href="https://codepen.io/@9802hemensan" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" alt="@9802hemensan" height="30" width="40" /></a>
 
