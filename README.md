@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+<!-- https://9802hemensan.github.io/ -->
 <!--
 **9802HEMENSAN/9802HEMENSAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hmahilange9802@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+ - 🔭 Checkout my portfolio: **[Portfolio](https://9802hemensan.github.io/)**
+
+- 💼 See my resume: **[Resume](https://drive.google.com/file/d/1QeUtzyi-VBmqX7A28A7N1CymmjN5cCHD/view?usp=share_link)**
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
